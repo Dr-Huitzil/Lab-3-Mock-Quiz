@@ -1,0 +1,59 @@
+/* every class should be separate with about 10px in the margins */
+/* the background color of the body should be teal */
+
+body {
+    background-color: teal;
+}
+.header {
+    background-color: brown;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+h1{
+  font-color: whitesmoke
+}
+.question1{
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  padding: 5px;
+}
+.question2{
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  padding: 5px;
+}
+.question3{
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  padding: 5px;
+}
+.question4{
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  padding: 5px
+}
+.question5{
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  padding: 5px;
+}
+.status{
+  background-color: white;
+  position: absolute left;
+  margin: 10px;
+  text-align: left;
+  border-radius: 10px;
+  padding: 5px
+}
